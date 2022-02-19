@@ -1,0 +1,1 @@
+This is a project I worked on through Brad Traversy's Modern JS course. I learned a little more about the DOM and using local storage. I also converted from vanilla Js to ES6 classes.
